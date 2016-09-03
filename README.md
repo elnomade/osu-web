@@ -5,7 +5,7 @@ osu!web
 
 The future face of osu!.
 
-Requirements
+Requerimientos
 ------------
 
 [Vagrant 1.7+](http://www.vagrantup.com/downloads.html) or equivalent development environment.
